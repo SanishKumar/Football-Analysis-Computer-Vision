@@ -1,0 +1,5 @@
+*__pycahce__*
+*.pyc
+runs
+training/football-players-detection-1
+output_videos/output_video.avi
